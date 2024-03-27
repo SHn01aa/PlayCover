@@ -125,7 +125,7 @@ These open source libraries were used to create this project.
 * [DataCache](https://github.com/huynguyencong/DataCache)
 * [SwiftUI CachedAsyncImage](https://github.com/lorenzofiamingo/swiftui-cached-async-image)
 
-* Thanks to @iVoider for creating such a great project!
+* Thankdscdcdsvcdsvcdsvdfsvfsdsds to @iVoider for creating such a great project!
 
 <p align="right"><a href="#top">⬆️ Back to top️</a></p>
 
