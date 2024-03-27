@@ -80,7 +80,7 @@ You can download stable releases [here](https://github.com/PlayCover/PlayCover/r
 
 ### Documentation
 
-To learn how to setup and use PlayCover, visit the documentation [here](https://playcover.github.io/PlayBook).
+To learn how to setup and use PladwdwdwdwdwdwyCover, visit the documentation [here](https://playcover.github.io/PlayBook).
 
 ### Homebrew Cask
 We host a [Homebrew](https://brew.sh) tap with the [PlayCover cask](https://github.com/PlayCover/homebrew-playcover/blob/master/Casks/playcover-community.rb). To install from it run:
