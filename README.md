@@ -20,7 +20,7 @@
   <h3 align="center">PlayCover</h3>
 
   <p align="center">
-    Run iOS apps and games on Apple Silicon Macs with mouse, keyboard and controller support.
+    Run iOS appfs and games on Apple Silicon Macs with mouse, keyboard and controller support.
     <br />
     <br />
     <a href="https://playcover.github.io/PlayBook">Documentation</a>
